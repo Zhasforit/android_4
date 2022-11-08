@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="lec00">    Содержание</string>
+    <string name="lec01">01. Что такое валюта?</string>
+    <string name="lec11">02. Классификация валюты</string>
+    <string name="lec15">03. Валютная система</string>
+    <string name="lec16">04. История</string>
+    <string name="prog">     Программы</string>
+
+</resources>
